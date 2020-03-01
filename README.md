@@ -6,6 +6,8 @@ This website was designed and developed by [Anders Øksendal Larsen](https://git
 
 The website is part of the the Project Exam 2 assignment in the [Front-end Development education](https://www.noroff.no/studier/fagskole/frontend-utvikling) at Noroff - School of Technology and Digital Media.
 
+Link to live site: https://jolly-villani-334703.netlify.com/ (version as it were when exam was submitted)
+
 All source code are MIT licensed. All content - text and images - belong to Photographer Morten Flaten &copy; 2020
 
 ## Technology used to develop the website
