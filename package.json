@@ -1,6 +1,6 @@
 {
   "name": "fotograf-morten-flaten-site",
-  "private": true,
+  "private": false,
   "description": "A new front-end for Morten Flaten - with headless Wordpress as a backend",
   "version": "0.1.0",
   "author": "Anders Øksendal Larsen <andersoelarsen@gmail.com>",
@@ -16,7 +16,6 @@
     "gatsby-background-image": "^0.10.1",
     "gatsby-cli": "^2.9.0",
     "gatsby-image": "^2.2.39",
-    "gatsby-plugin-gdpr-cookies": "^1.0.6",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^3.0.32",
     "gatsby-plugin-react-helmet": "^3.1.21",
